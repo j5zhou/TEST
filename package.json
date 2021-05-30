@@ -9,6 +9,9 @@
     "lint": "eslint ./src ",
     "doc": "jsdoc -c jsdoc.json"
   },
+  "engines": {
+    "node": "14.x"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cse110-sp21-group8/cse110-sp21-group8.git"
